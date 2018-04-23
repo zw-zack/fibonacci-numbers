@@ -55,7 +55,7 @@ Still waiting? It will take a while. That's because each time the function is ca
 
 So we would call this particular algorithm (in its current form) a _naive_ algorithm. Why? Because it brute forces its way to the result, re-running the exact computation multiple times. It is extremely inefficient, and takes a long time to complete.
 
-One common way to deal with such problems is trading space for time. Specifically, we can use a concept called dyanmic programming to optimise our algorithm. From [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming):
+One common way to deal with such problems is trading space for time. Specifically, we can use a concept called dynamic programming to optimise our algorithm. From [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming):
 
 > A dynamic programming algorithm will examine the previously solved subproblems and will combine their solutions to give the best solution for the given problem.
 
