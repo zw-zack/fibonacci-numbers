@@ -14,7 +14,7 @@ These are the first 8 fibonacci numbers:
 
 Therefore `fibonacci(8)` should dynamically calculate and return the value 13.
 
-# Further - iterative vs recursive
+## Further - iterative vs recursive
 
 Every algorithm can be implemented iteratively _and_ recursively. One approach may be more suitable than the other in most situations, but it's still feasible to implement both.
 
@@ -22,7 +22,7 @@ If you implemented an iterative algorithm, now try to write a recursive implemen
 
 Conversely, if you implemented a recursive algorithm, now try to write an iterative implementation.
 
-# Further - dynamic programming
+## Further - dynamic programming
 
 For a recursive implementation, ensure that your algorithm can finish executing `fibonacci(100)` in under 1 second. 
 
